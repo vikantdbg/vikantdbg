@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vikrant Singh
 
-### Software Analyst | QA Engineer | Software Developer | AI/ML Enthusiast
+### Software Development Engineer | QA Engineer | Software Analyst | AI/ML Enthusiast
 
 <p align="center">
   <a href="https://linkedin.com/in/vikrant-singh-100499313">
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Analyst** working in an edtech environment with hands-on experience across software development, QA, backend development, databases, WordPress/PHP, APIs, and AI/ML experimentation.
+I'm a **Software Development Engineer ** working in an edtech environment with hands-on experience across software development, QA, backend development, databases, APIs, and AI/ML experimentation AI traing, LLM etc...
 
 I enjoy building practical solutions, debugging real-world problems, validating applications, and experimenting with AI-powered ideas.
 
@@ -116,49 +116,11 @@ I enjoy building practical solutions, debugging real-world problems, validating 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/vikantdbg">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vikantdbg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Vikrant's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/vikantdbg">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikantdbg&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
-</a>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/vikantdbg">
-  <img src="https://streak-stats.demolab.com?user=vikantdbg&hide_border=true" alt="GitHub Contribution Streak"/>
-</a>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikantdbg&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vikantdbg&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Profile Trophy"/>
 
 </div>
 
