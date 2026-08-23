@@ -4,50 +4,36 @@
 
 ### Software Analyst | QA Engineer | Software Developer | AI/ML Enthusiast
 
-<p>
-  <a href="https://github.com/vikantdbg">
-    <img src="https://img.shields.io/github/followers/vikantdbg?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+<p align="center">
+  <a href="https://linkedin.com/in/vikrant-singh-100499313">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vikrantnewone@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/vikantdbg">
-    <img src="https://komarev.com/ghpvc/?username=vikantdbg&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/vikantdbg">
-    <img src="https://img.shields.io/github/stars/vikantdbg?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  <a href="https://www.leetcode.com/vikrantsingh01">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
-<p>
-  <a href="https://linkedin.com/in/vikrant-singh-100499313">
-    <img src="https://img.shields.io/badge/LinkedIn-Vikrant%20Singh-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.leetcode.com/vikrantsingh01">
-    <img src="https://img.shields.io/badge/LeetCode-vikrantsingh01-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
-  <a href="mailto:vikrantnewone@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikantdbg&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Software Analyst** working in an edtech environment, with hands-on experience across:
+I'm a **Software Analyst** working in an edtech environment with hands-on experience across software development, QA, backend development, databases, WordPress/PHP, APIs, and AI/ML experimentation.
 
-- Software development
-- Manual and API testing
-- Backend and database development
-- WordPress / PHP development
-- AI/ML experimentation
-- Web application debugging
-- SQL and data validation
-- Automation and developer tooling
+I enjoy building practical solutions, debugging real-world problems, validating applications, and experimenting with AI-powered ideas.
 
-I enjoy building practical solutions, debugging real-world problems, and experimenting with AI-powered applications.
-
-Currently, I'm focusing on becoming a stronger **Software Engineer with expertise in AI, backend development, testing, and scalable web applications**.
+🚀 Currently focusing on **AI Engineering, Full Stack Development, Backend Development, API Testing, Automation, and Software Engineering**.
 
 ---
 
@@ -60,7 +46,7 @@ Currently, I'm focusing on becoming a stronger **Software Engineer with expertis
 | 🤖 AI / ML | Python, OpenCV, Pandas, ML experimentation |
 | 🗄️ Database | MySQL, MongoDB, SQL |
 | 🌐 Web Development | HTML, CSS, JavaScript, React, PHP |
-| 🔧 Development | Git, Linux, Postman, debugging |
+| 🔧 Development Tools | Git, Linux, Postman, debugging |
 | 📚 Learning | AI Engineering, Full Stack Development, System Design |
 
 ---
@@ -73,7 +59,7 @@ Currently, I'm focusing on becoming a stronger **Software Engineer with expertis
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,php" alt="Programming Languages"/>
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="Frontend Technologies"/>
@@ -117,13 +103,30 @@ Currently, I'm focusing on becoming a stronger **Software Engineer with expertis
 
 ---
 
-# 📊 GitHub Analytics
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:vikrantnewone@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-vikrantnewone%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/vikrant-singh-100499313">
+    <img src="https://img.shields.io/badge/LinkedIn-Vikrant%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikantdbg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<a href="https://github.com/vikantdbg">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vikantdbg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Vikrant's GitHub Stats"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikantdbg&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/vikantdbg">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikantdbg&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -133,7 +136,9 @@ Currently, I'm focusing on becoming a stronger **Software Engineer with expertis
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vikantdbg&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/vikantdbg">
+  <img src="https://streak-stats.demolab.com?user=vikantdbg&hide_border=true" alt="GitHub Contribution Streak"/>
+</a>
 
 </div>
 
@@ -143,7 +148,7 @@ Currently, I'm focusing on becoming a stronger **Software Engineer with expertis
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikantdbg&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikantdbg&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 
 </div>
 
@@ -153,15 +158,15 @@ Currently, I'm focusing on becoming a stronger **Software Engineer with expertis
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vikantdbg&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vikantdbg&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Profile Trophy"/>
 
 </div>
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-> Some of my selected projects and experiments.
+> Some of my selected projects, experiments, and practical development work.
 
 <table>
 <tr>
@@ -171,7 +176,7 @@ Currently, I'm focusing on becoming a stronger **Software Engineer with expertis
 
 Projects focused on machine learning, computer vision, and AI-powered solutions.
 
-**Tech:** Python • OpenCV • Pandas • ML
+**Tech:** Python • OpenCV • Pandas • Machine Learning
 
 </td>
 
@@ -179,7 +184,7 @@ Projects focused on machine learning, computer vision, and AI-powered solutions.
 
 ### 🌐 Software Projects
 
-Web and backend applications built using modern development technologies.
+Web and backend applications built using modern software development technologies.
 
 **Tech:** Java • Python • JavaScript • PHP • SQL
 
@@ -191,7 +196,7 @@ Web and backend applications built using modern development technologies.
 
 ### 🧪 QA & Automation
 
-Testing projects involving APIs, web applications, automation and validation.
+Projects and experiments involving API testing, web application testing, automation, and validation.
 
 **Tech:** Selenium • Postman • SQL
 
@@ -201,7 +206,7 @@ Testing projects involving APIs, web applications, automation and validation.
 
 ### 🔧 Developer Tools
 
-Small utilities, experiments and productivity tools built while learning and solving real problems.
+Utilities, experiments, and productivity-focused projects created while solving practical problems.
 
 **Tech:** Python • JavaScript • Git
 
@@ -211,7 +216,7 @@ Small utilities, experiments and productivity tools built while learning and sol
 
 ---
 
-# 🧠 Currently Learning
+## 🧠 Currently Learning
 
 ```text
 AI Engineering
@@ -222,3 +227,66 @@ Database Optimization
 System Design
 Automation Testing
 Cloud & DevOps
+```
+
+---
+
+## 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://www.leetcode.com/vikrantsingh01">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://github.com/vikantdbg">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build production-ready AI applications
+- 🧠 Strengthen DSA and problem-solving
+- 🔥 Improve backend and API development skills
+- 🧪 Build stronger automation testing projects
+- ☁️ Learn cloud deployment and DevOps
+- 🌱 Contribute to open-source projects
+- 📚 Continuously improve software engineering fundamentals
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+`AI` • `Software Development` • `QA & Testing` • `Backend Development` • `Open Source`
+
+<p align="center">
+
+<a href="https://linkedin.com/in/vikrant-singh-100499313">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vikrantnewone@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/vikantdbg">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Test. Learn. Improve."
+
+⭐ Thanks for visiting my profile!
+
+</div>
