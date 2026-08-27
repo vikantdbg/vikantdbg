@@ -23,7 +23,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="./assets/github-snake.svg" alt="GitHub contribution snake animation" width="880" />
+  <img src="https://raw.githubusercontent.com/vikantdbg/vikantdbg/output/github-snake.svg" alt="Vikrant's GitHub contribution snake animation" width="880" />
 </p>
 
 ---
