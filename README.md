@@ -116,16 +116,6 @@ I enjoy building practical solutions, debugging real-world problems, validating 
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikantdbg&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 > Some of my selected projects, experiments, and practical development work.
