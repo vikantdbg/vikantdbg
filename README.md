@@ -1,244 +1,164 @@
 <div align="center">
 
-# 👋 Hi, I'm Vikrant Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Vikrant%20Singh&fontSize=48&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20QA%20Engineer%20%7C%20Software%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&animation=twinkling&color=7dd3fc" width="100%"/>
 
-### Software Development Engineer | QA Engineer | Software Analyst | AI/ML Enthusiast
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=Software+Development+%7C+QA+%7C+API+Testing;AI+Engineering+%7C+Full+Stack+Development;Backend+Development+%7C+Automation;Building+practical+software+and+AI-powered+solutions" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/vikrant-singh-100499313">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vikrantnewone@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/vikantdbg">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.leetcode.com/vikrantsingh01">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikantdbg&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+<p>
+<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black" alt="Open to Work"/>
+<img src="https://komarev.com/ghpvc/?username=vikantdbg&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/vikantdbg?label=Followers&style=for-the-badge&color=7dd3fc" alt="Followers"/>
 </p>
 
 </div>
 
----
+👨‍💻 Who I Am
 
-## 👨‍💻 About Me
+const vikrant = {
+  title: "Software Development Engineer | QA Engineer | Software Analyst | AI/ML Enthusiast",
+  stack: [
+    "Java", "Python", "C++", "JavaScript", "PHP",
+    "React", "Next.js", "Node.js", "Express", "Laravel", "Flask",
+    "Selenium", "Postman",
+    "OpenCV", "TensorFlow", "PyTorch",
+    "MySQL", "MongoDB", "PostgreSQL", "Oracle",
+    "Git", "GitHub", "Linux", "Docker", "AWS", "Bash",
+    "Figma", "Photoshop"
+  ],
+  launchedProjects: "Practical software, QA, automation and AI/ML projects",
+  certifications: "Not provided",
+  status: "Software Development Engineer in an edtech environment",
+  openTo: "AI Engineering, Full Stack Development, Backend Development, API Testing, Automation and Software Engineering"
+};
 
-I'm a **Software Development Engineer ** working in an edtech environment with hands-on experience across software development, QA, backend development, databases, APIs, and AI/ML experimentation AI traing, LLM etc...
+🚀 Featured Projects
 
-I enjoy building practical solutions, debugging real-world problems, validating applications, and experimenting with AI-powered ideas.
-
-🚀 Currently focusing on **AI Engineering, Full Stack Development, Backend Development, API Testing, Automation, and Software Engineering**.
-
----
-
-## 💼 What I Do
-
-| Area | Focus |
-|------|-------|
-| 💻 Software Development | Web applications, backend logic, APIs |
-| 🧪 QA & Testing | Manual testing, API testing, Selenium |
-| 🤖 AI / ML | Python, OpenCV, Pandas, ML experimentation |
-| 🗄️ Database | MySQL, MongoDB, SQL |
-| 🌐 Web Development | HTML, CSS, JavaScript, React, PHP |
-| 🔧 Development Tools | Git, Linux, Postman, debugging |
-| 📚 Learning | AI Engineering, Full Stack Development, System Design |
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,php" alt="Programming Languages"/>
-</p>
-
-### 🌐 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="Frontend Technologies"/>
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,flask" alt="Backend Technologies"/>
-</p>
-
-### 🧪 Testing & API
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium,postman" alt="Testing Tools"/>
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch" alt="AI ML Technologies"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,oracle" alt="Databases"/>
-</p>
-
-### ☁️ Tools & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,bash" alt="Tools and DevOps"/>
-</p>
-
-### 🎨 Design & Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="mailto:vikrantnewone@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vikrantnewone%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/vikrant-singh-100499313">
-    <img src="https://img.shields.io/badge/LinkedIn-Vikrant%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-## 📌 Featured Projects
-
-> Some of my selected projects, experiments, and practical development work.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI / ML Projects
+🤖 AI / ML Projects
 
 Projects focused on machine learning, computer vision, and AI-powered solutions.
 
-**Tech:** Python • OpenCV • Pandas • Machine Learning
 
-</td>
 
-<td width="50%">
+Layer
 
-### 🌐 Software Projects
+Technology
 
-Web and backend applications built using modern software development technologies.
+Language
 
-**Tech:** Java • Python • JavaScript • PHP • SQL
+Python
 
-</td>
-</tr>
+AI / ML
 
-<tr>
-<td width="50%">
+OpenCV • TensorFlow • PyTorch • Pandas
 
-### 🧪 QA & Automation
+Focus
 
-Projects and experiments involving API testing, web application testing, automation, and validation.
+Machine Learning • Computer Vision
 
-**Tech:** Selenium • Postman • SQL
+Live • Code
 
-</td>
+🌐 Software Projects
 
-<td width="50%">
+Web and backend applications built using software development technologies.
 
-### 🔧 Developer Tools
 
-Utilities, experiments, and productivity-focused projects created while solving practical problems.
 
-**Tech:** Python • JavaScript • Git
+Layer
 
-</td>
-</tr>
-</table>
+Technology
 
----
+Languages
 
-## 🧠 Currently Learning
+Java • Python • JavaScript • PHP
 
-```text
-AI Engineering
-Full Stack Development
-Backend Development
-API Design & Testing
-Database Optimization
-System Design
-Automation Testing
-Cloud & DevOps
-```
+Frontend
 
----
+HTML • CSS • React • Next.js
 
-## 💻 Coding Profiles
+Backend
 
-<p align="left">
+Node.js • Express • Laravel • Flask
 
-<a href="https://www.leetcode.com/vikrantsingh01">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+Database
 
-<a href="https://github.com/vikantdbg">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+MySQL • MongoDB • PostgreSQL • Oracle
 
+Live • Code
+
+🛠️ Tech Stack
+
+👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,php" alt="Languages"/>
 </p>
 
----
+🌐 Frontend
 
-## 🎯 2026 Goals
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend"/>
+</p>
 
-- 🚀 Build production-ready AI applications
-- 🧠 Strengthen DSA and problem-solving
-- 🔥 Improve backend and API development skills
-- 🧪 Build stronger automation testing projects
-- ☁️ Learn cloud deployment and DevOps
-- 🌱 Contribute to open-source projects
-- 📚 Continuously improve software engineering fundamentals
+⚙️ Backend / Infra
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask" alt="Backend"/>
+</p>
 
-## 🤝 Let's Connect
+☁️ Cloud
 
-I'm always interested in discussing:
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" alt="Cloud and Infrastructure"/>
+</p>
 
-`AI` • `Software Development` • `QA & Testing` • `Backend Development` • `Open Source`
+🤖 AI / DB
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,mysql,mongodb,postgresql,oracle" alt="AI and Databases"/>
+</p>
+
+🔧 Dev Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,selenium" alt="Developer Tools"/>
+</p>
+
+📊 GitHub Stats
 
 <p align="center">
-
-<a href="https://linkedin.com/in/vikrant-singh-100499313">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:vikrantnewone@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/vikantdbg">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=vikantdbg&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikantdbg&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" height="180" alt="Top Languages"/>
 </p>
 
----
+🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=vikantdbg&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+</p>
+
+🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vikantdbg&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+</p>
+
+📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikantdbg&theme=nord&color=7dd3fc&line=7dd3fc&point=7dd3fc&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+</p>
+
+🔗 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/vikrant-singh-100499313"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+<a href="mailto:vikrantnewone@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+<a href="https://github.com/vikantdbg"><img src="https://img.shields.io/badge/GitHub-Profile-7dd3fc?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
+<a href="https://www.leetcode.com/vikrantsingh01"><img src="https://img.shields.io/badge/LeetCode-Profile-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
 <div align="center">
 
-### 💡 "Build. Test. Learn. Improve."
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=7dd3fc" width="100%"/>
 
 </div>
