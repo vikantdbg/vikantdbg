@@ -20,14 +20,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vikantdbg/vikantdbg/output/github-snake.svg" alt="Vikrant's GitHub contribution snake animation" width="880" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a **Software Development Engineer** working in an edtech environment, with hands-on experience across:
@@ -202,3 +194,10 @@ I'm always interested in discussing:
 ⭐ **Thanks for visiting my profile!**
 
 </div>
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vikantdbg/vikantdbg/output/github-snake.svg" alt="Vikrant's GitHub contribution snake animation" width="880" />
+</p>
+
+---
